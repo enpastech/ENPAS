@@ -38,17 +38,20 @@ tarafından kullanılabilecektir.
 * [![Android Studio][Android Studio]][AndroidStudio-url]
 * [![MySQL][MySQL]][MySQL-url]
 * ![ESP32][ESP32]
+* ![IoT][IoT]
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
 
 ## 🚀 Özellikler
-- 📱 **Mobil Uygulama:** Kullanıcı dostu arayüz sayesinde park alanlarını görüntüleme ve kontrol etme.
-- 🔐 **Yetkilendirme Sistemi:** Engelli bireylerin doğrulanmış hesaplarla park alanlarını kullanabilmesi.
-- 🔄 **Otomatik Bariyer Kontrolü:** Sinyal ile hareket eden bariyerler sayesinde güvenli park erişimi.
-- 📊 **Gerçek Zamanlı Veri Takibi:** Kullanıcılar dolu/boş park alanlarını anlık olarak görüntüleyebilir.
-- ☁️ **Bulut Entegrasyonu:** Güvenli hosting ve API ile veri güvenliği ve senkronizasyonu sağlanır.
+
+- 📱 Mobil Uygulama: Kullanıcı dostu arayüz sayesinde park alanlarını görüntüleme ve kontrol etme.
+- 🔐 Yetkilendirme Sistemi: Engelli bireylerin doğrulanmış hesaplarla park alanlarını kullanabilmesi.
+- 🔄 Otomatik Bariyer Kontrolü: Wi-Fi destekli sinyallerle hareket eden bariyerler sayesinde güvenli park erişimi.
+- 📊 Gerçek Zamanlı Veri Takibi: Kullanıcılar dolu/boş park alanlarını anlık olarak görüntüleyebilir.
+- ☁️ Bulut Entegrasyonu: Güvenli hosting ve API ile veri güvenliği ve senkronizasyonu sağlanır.
+- 📡 IoT Desteği: Bariyer kontrolü ve sensör entegrasyonu için gelişmiş IoT altyapısı.
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
@@ -117,3 +120,4 @@ Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi içi
 [Node.js]: https://img.shields.io/badge/NodeJs-96C241?style=for-the-badge&logo=Node&logoColor=green
 [Nodejs-url]: https://nodejs.org/en
 [ESP32]: https://img.shields.io/badge/esp32-DD0031?style=for-the-badge&logo=esp32&logoColor=white
+[IoT]: https://img.shields.io/badge/IoT-35495E?style=for-the-badge&logo=IoT&logoColor=blue
