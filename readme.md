@@ -81,8 +81,8 @@ Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi içi
 | Metehan Günen | Ekip Lideri, Donanım Sorumlusu, Backend | metehangnn@outlook.com [![LinkedIn: Metehan Günen][linkedin-shield-meto]][linkedin-url-meto] |
 | Emre Kaygusuz | Ekip Lider Yardımcısı, Backend | emrekaygusuzcf@gmail.com [![LinkedIn: Emre Kaygusuz][linkedin-shield-emre]][linkedin-url-emre] |
 | Semih Çelenk | Menajer, Donanım Sorumlusu, Fullstack | semihcelenkiletisim@gmail.com [![LinkedIn: Semih Çelenk][linkedin-shield-semih]][linkedin-url-semih] |
-| Ali Karaca | Backend | alikrc752@gmail.com [![LinkedIn: Ali Karaca][linkedin-shield-ali]][linkedin-url-ali] |
-| Musa Emre Delen | Frontend | musaemre22@gmail.com  [![LinkedIn: Musa Emre Delen][linkedin-shield-musa]][linkedin-url-musa]|
+| Ali Karaca | Backend | alikrc752@gmail.com   [![LinkedIn: Ali Karaca][linkedin-shield-ali]][linkedin-url-ali] |
+| Musa Emre Delen | Frontend | musaemre22@gmail.com   [![LinkedIn: Musa Emre Delen][linkedin-shield-musa]][linkedin-url-musa]|
 
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
