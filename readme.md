@@ -82,7 +82,7 @@ Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi içi
 | Emre Kaygusuz | Ekip Lider Yardımcısı, Backend | emrekaygusuzcf@gmail.com [![LinkedIn: Emre Kaygusuz][linkedin-shield-emre]][linkedin-url-emre] |
 | Semih Çelenk | Menajer, Donanım Sorumlusu, Fullstack | semihcelenkiletisim@gmail.com [![LinkedIn: Semih Çelenk][linkedin-shield-semih]][linkedin-url-semih] |
 | Ali Karaca | Backend | alikrc752@gmail.com [![LinkedIn: Ali Karaca][linkedin-shield-ali]][linkedin-url-ali] |
-| Musa Emre Delen | Frontend | musaemre22@gmail.com |
+| Musa Emre Delen | Frontend | musaemre22@gmail.com  [![LinkedIn: Musa Emre Delen][linkedin-shield-musa]][linkedin-url-musa]|
 
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
@@ -103,10 +103,12 @@ Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi içi
 [linkedin-shield-semih]: https://img.shields.io/badge/-LinkedIn:SemihCelenk-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-shield-emre]: https://img.shields.io/badge/-LinkedIn:EmreKaygusuz-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-shield-ali]: https://img.shields.io/badge/-LinkedIn:AliKaraca-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield-musa]: https://img.shields.io/badge/-LinkedIn:MusaEmreDelen-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-meto]: https://www.linkedin.com/in/metehangunen/
 [linkedin-url-semih]: https://www.linkedin.com/in/semih-celenk/
 [linkedin-url-emre]: https://www.linkedin.com/in/emre-kaygusuz-56b014250/
 [linkedin-url-ali]: https://www.linkedin.com/in/ali-karaca-a0a950298/
+[linkedin-url-musa]: https://www.linkedin.com/in/musa-emre-delen-b99542356/
 [product-screenshot]: images/mockup.png
 [Kotlin]: https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=green
 [Kotlin-url]: https://kotlinlang.org/
