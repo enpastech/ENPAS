@@ -36,6 +36,7 @@ Güncellenmiş özelliklerle birlikte, sistem artık IoT tabanlı bir çözüm i
 * [![MySQL][MySQL]][MySQL-url]
 * ![ESP32][ESP32]
 * ![IoT][IoT]
+* ![C++][C++]
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
@@ -120,3 +121,4 @@ Bu proje **MPL 2.0 Lisansı** altında lisanslanmıştır. Daha fazla bilgi içi
 [Nodejs-url]: https://nodejs.org/en
 [ESP32]: https://img.shields.io/badge/esp32-DD0031?style=for-the-badge&logo=esp32&logoColor=white
 [IoT]: https://img.shields.io/badge/IoT-35495E?style=for-the-badge&logo=IoT&logoColor=blue
+[C++]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=green
