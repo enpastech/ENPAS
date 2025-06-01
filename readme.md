@@ -21,7 +21,7 @@
 
 ## 📌 Proje Hakkında
 
-![product-screenshot]
+![mockup](https://github.com/user-attachments/assets/7352b4b4-87f2-447d-8c02-c10084827be3)
 Engelli bireyler için otoparklarda yer alan park alanlarının daha etkili korunması ve yetkisiz kullanımların engellenmesi amacıyla bir bariyer kontrol sistemi geliştirilmektedir. Sistem, bir mobil uygulama aracılığıyla bariyerlerin yükseltilip alçaltılmasını sağlayacak, sadece doğrulanmış engelli bireyler tarafından kullanılabilecektir.
 
 Güncellenmiş özelliklerle birlikte, sistem artık IoT tabanlı bir çözüm içermekte ve Bluetooth Low Energy ile Wi-Fi üzerinden uzaktan kontrol imkanı sunmaktadır. Ayrıca, veritabanı yönetimi için ESP32'nin, satın alınan hosting üzerinden MySQL entegrasyonu sağlanmıştır.
